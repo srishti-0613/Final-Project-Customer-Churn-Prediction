@@ -1,1 +1,24 @@
 # Final-Project-Customer-Churn-Prediction
+We have to follow  procedure mentioned below
+- Importing Libraries
+- Loading Dataset
+- Exploratory Data Analysis
+- Feature distribution
+   - Numerical feature distribution
+   - Categorical feature distribution
+   - Target variable distribution
+- Outliers using IQR method
+- Cleaning and Transforming Data
+    - One-hot Encoding
+    - Rearranging Columns
+    - Feature Scaling
+    - Feature Selection
+- Machine Learning model Evaluations and Predictions
+    -  Logistic Regression
+    -  Support Vector Classifier
+    -  Decision Tree Classifier
+    -  KNN Classifier
+    -  Random Forest
+    -  AdaBoost Classifier
+    -  Gradient Boosting Classifier
+    -   Voting Classifier
